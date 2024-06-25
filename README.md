@@ -1,6 +1,5 @@
 ## THE OLDEST BUSINESS. 
 Datasets containing data on businesses were used. 
-business_ data set 
 |dataset | column       |
 |--------|-----------   |
 |business|buness_name   |
@@ -12,3 +11,5 @@ business_ data set
 |        |continent     |
 |category|category_code |
 |        |category      |
+
+  PostgreSQL was used for this analysis.
